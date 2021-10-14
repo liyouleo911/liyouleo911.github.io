@@ -31,7 +31,7 @@ twitter_username: liyouleo911
 github_username:  liyouleo911
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
